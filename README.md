@@ -1,6 +1,6 @@
 # Todo App made with React.Js, Redux Toolkit and Framer Motion
 
-So i made this app following Web Cifar tutorial, to learn more about redux toolkit and framer motion. It was an awesome tutorial. [Check it out!!](https://www.youtube.com/watch?v=W0Uf_xu350k)
+So, i made this app following Web Cifar tutorial, to learn more about redux toolkit and framer motion. It was an awesome tutorial. [Check it out!!](https://www.youtube.com/watch?v=W0Uf_xu350k)
 
 I didnt change the design - Web Cifar design is amazing!! -, so its almost a clone. See it [live](https://objetivos.netlify.app/).
 
